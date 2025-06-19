@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Gallmond GmbH – Personalberatung & Recruiting</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: #f8f9fa;
+      color: #333;
+    }
+    header {
+      background-color: #004080;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      background-color: #002e5d;
+      display: flex;
+      justify-content: center;
+    }
+    nav a {
+      color: white;
+      text-decoration: none;
+      padding: 15px 20px;
+      display: inline-block;
+    }
+    nav a:hover {
+      background-color: #003f7d;
+    }
+    .container {
+      max-width: 1000px;
+      margin: auto;
+      padding: 40px 20px;
+    }
+    section {
+      margin-bottom: 50px;
+    }
+    footer {
+      background-color: #002e5d;
+      color: white;
+      text-align: center;
+      padding: 20px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Gallmond GmbH</h1>
+    <p>Ihre Experten für Personalberatung & Recruiting</p>
+  </header>
+
+  <nav>
+    <a href="#about">Über uns</a>
+    <a href="#services">Leistungen</a>
+    <a href="#team">Team</a>
+    <a href="#contact">Kontakt</a>
+  </nav>
+
+  <div class="container">
+    <section id="about">
+      <h2>Über uns</h2>
+      <p>
+        Die Gallmond GmbH ist eine moderne Personalberatung mit Fokus auf nachhaltiges Recruiting, exzellente Beratung und individuelle Lösungen für Unternehmen jeder Größe.
+      </p>
+    </section>
+
+    <section id="services">
+      <h2>Unsere Leistungen</h2>
+      <ul>
+        <li>Executive Search & Headhunting</li>
+        <li>Beratung in Employer Branding & Personalmarketing</li>
+        <li>Optimierung von Recruiting-Prozessen</li>
+        <li>Digitale Marketingunterstützung für HR (inkl. LinkedIn, SEO & Kampagnen)</li>
+      </ul>
+    </section>
+
+    <section id="team">
+      <h2>Unser Team</h2>
+      <p>
+        Unser interdisziplinäres Team kombiniert Erfahrung aus HR, Marketing und Technologie. Wir arbeiten partnerschaftlich mit unseren Kunden und setzen auf langfristige Beziehungen.
+      </p>
+    </section>
+
+    <section id="contact">
+      <h2>Kontakt</h2>
+      <p>
+        Gallmond GmbH<br/>
+        Musterstraße 123<br/>
+        12345 Musterstadt<br/>
+        Tel: +49 123 456789<br/>
+        Email: kontakt@gallmond.com
+      </p>
+    </section>
+  </div>
+
+  <footer>
+    <p>&copy; 2025 Gallmond GmbH – Alle Rechte vorbehalten</p>
+  </footer>
+
+</body>
+</html>
